@@ -1,0 +1,12 @@
+WORD COUNTER - PROBLEM STATEMENT
+
+Create a Python program that accepts a sentence or paragraph from the user and calculates:
+
+1. Total number of words.
+2. Total number of characters.
+3. Number of characters excluding spaces.
+
+The program should display the results clearly and handle empty input.
+
+Goal:
+Practice Python strings, string methods, functions, user input, and conditional statements.
